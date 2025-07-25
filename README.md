@@ -1,6 +1,6 @@
 # Advanced Uber Fare Analytics: A Data-Driven Business Intelligence Study
 
-**Analyst:** Emmanuel Familoni
+**Analyst:** Familoni Emmanuel Eniola
 **Student ID:** 25951
 **Academic Program:** Introduction to Big Data Analytics INSY 8413
 **Research Focus:** Predictive Analytics & Business Intelligence in Transportation
